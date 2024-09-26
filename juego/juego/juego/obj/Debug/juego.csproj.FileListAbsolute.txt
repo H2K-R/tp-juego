@@ -1,0 +1,7 @@
+C:\Users\cater\OneDrive\Desktop\juego\juego\juego\bin\Debug\juego.exe.config
+C:\Users\cater\OneDrive\Desktop\juego\juego\juego\bin\Debug\juego.exe
+C:\Users\cater\OneDrive\Desktop\juego\juego\juego\bin\Debug\juego.pdb
+C:\Users\cater\OneDrive\Desktop\juego\juego\juego\obj\Debug\juego.csproj.AssemblyReference.cache
+C:\Users\cater\OneDrive\Desktop\juego\juego\juego\obj\Debug\juego.csproj.CoreCompileInputs.cache
+C:\Users\cater\OneDrive\Desktop\juego\juego\juego\obj\Debug\juego.exe
+C:\Users\cater\OneDrive\Desktop\juego\juego\juego\obj\Debug\juego.pdb
